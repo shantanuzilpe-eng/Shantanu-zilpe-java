@@ -1,0 +1,7 @@
+Class Car{
+String company;
+String model;
+double price;
+double milage;
+………
+}
