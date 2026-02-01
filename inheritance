@@ -1,0 +1,29 @@
+class Person
+2.
+{
+3.
+String name;
+4.
+long contact;
+5.
+}
+6.
+class Employee extends Person
+7.
+{
+8.
+int empID;
+9.
+String designation;
+10.
+}
+11.
+Class Customer extends Person
+12.
+{
+13.
+int customerID;
+14.
+int invoiceNo;
+15.
+}
